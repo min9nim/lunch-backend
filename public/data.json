@@ -1,0 +1,326 @@
+[
+    {
+      "seq": 0,
+      "menu": "동태탕",
+      "restaurant": "",
+      "location": "삼성IT 지하",
+      "lastVisited": "",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 1,
+      "menu": "카레",
+      "restaurant": "고씨네",
+      "location": "회사건물 지하",
+      "lastVisited": "",
+      "etc": "가성비가 좀 떨어짐",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 2,
+      "menu": "낙곱새",
+      "restaurant": "용호낙지",
+      "location": "지밸리 지하",
+      "lastVisited": "",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 3,
+      "menu": "백반",
+      "restaurant": "봉태민",
+      "location": "우림1차 지하",
+      "lastVisited": "",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 4,
+      "menu": "고등어구이",
+      "restaurant": "",
+      "location": "달콤한일상 뒤 골목길",
+      "lastVisited": "",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 5,
+      "menu": "덮밥",
+      "restaurant": "아저씨식당",
+      "location": "삼성IT 지하",
+      "lastVisited": "20180206",
+      "etc": "짜고 느끼",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 6,
+      "menu": "부대찌개",
+      "restaurant": "뽕나무쟁이",
+      "location": "우림2차 1층",
+      "lastVisited": "20180227",
+      "etc": "라면/밥 무한리필",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 7,
+      "menu": "돼지국밥",
+      "restaurant": "",
+      "location": "대륭7차 2층",
+      "lastVisited": "20180307",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 8,
+      "menu": "삼계탕",
+      "restaurant": "누리한방삼계탕",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180309",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 9,
+      "menu": "뼈해장국",
+      "restaurant": "참이맛 감자탕",
+      "location": "지밸리 지하",
+      "lastVisited": "20180315",
+      "etc": "5뼈, 5인 이상 탄산2캔",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 10,
+      "menu": "육개장",
+      "restaurant": "육대장",
+      "location": "대륭3차 1층",
+      "lastVisited": "20180319",
+      "etc": "9천원",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 11,
+      "menu": "중국집",
+      "restaurant": "홍콩반점",
+      "location": "깔깔거리",
+      "lastVisited": "20180323",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 12,
+      "menu": "직화구이",
+      "restaurant": "소공동뚝배기",
+      "location": "코오롱2차 지하",
+      "lastVisited": "20180326",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 13,
+      "menu": "우순대",
+      "restaurant": "담소사골순대",
+      "location": "대륭3차 1층",
+      "lastVisited": "20180328",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 14,
+      "menu": "보리밥, 멸치국수",
+      "restaurant": "진미",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180402",
+      "etc": "6천원",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 15,
+      "menu": "뷔페",
+      "restaurant": "G Cook",
+      "location": "산업인력공단1층",
+      "lastVisited": "20180403",
+      "etc": "8천원",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 16,
+      "menu": "부대찌개",
+      "restaurant": "완백",
+      "location": "지밸리 지하",
+      "lastVisited": "20180405",
+      "etc": "밥무한리필",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 17,
+      "menu": "닭볶음탕",
+      "restaurant": "서울맥주",
+      "location": "지밸리 1층",
+      "lastVisited": "20180406",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 18,
+      "menu": "뼈해장국",
+      "restaurant": "조마루 감자탕",
+      "location": "깔깔거리",
+      "lastVisited": "20180409",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 19,
+      "menu": "칼국수,수제비",
+      "restaurant": "명품들깨칼국수",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180411",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 20,
+      "menu": "돼지 김치찜",
+      "restaurant": "밥도둑",
+      "location": "대륭7차 2층",
+      "lastVisited": "20180411",
+      "etc": "밥무한, 라면사리무한",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 21,
+      "menu": "볶음밥",
+      "restaurant": "밥복끼",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180412",
+      "etc": "손님많음",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 22,
+      "menu": "그릴볶음밥",
+      "restaurant": "미스터제이빙",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180417",
+      "etc": "메뉴: http://telegra.ph/menu-04-12",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 23,
+      "menu": "두부",
+      "restaurant": "05식당",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180503",
+      "etc": "주문하고 밥이 좀 늦게 나옴",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 24,
+      "menu": "중국집",
+      "restaurant": "소용궁",
+      "location": "삼성IT밸리 지하",
+      "lastVisited": "20180504",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 25,
+      "menu": "부대찌개",
+      "restaurant": "낭만",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180508",
+      "etc": "밥무한리필",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 26,
+      "menu": "설렁탕",
+      "restaurant": "한촌설렁탕",
+      "location": "지밸리 2층",
+      "lastVisited": "20180514",
+      "etc": " 음식늦게나옴",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 27,
+      "menu": "중국집",
+      "restaurant": "신승반점",
+      "location": "지밸리 지하",
+      "lastVisited": "20180516",
+      "etc": "백짬뽕9천, 짜장9천, 간짜장8천",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 28,
+      "menu": "구내식당",
+      "restaurant": "스마일푸드",
+      "location": "봉태민맞은편",
+      "lastVisited": "20180517",
+      "etc": "5천원, 탄산음료/숭늉 제공, 조미료 거의안씀",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 29,
+      "menu": "시래기",
+      "restaurant": "시래소반",
+      "location": "회사건물 1층",
+      "lastVisited": "20180518",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 30,
+      "menu": "순두부",
+      "restaurant": "진수두부",
+      "location": "대륭7차 2층",
+      "lastVisited": "20180521",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 31,
+      "menu": "쌀국수",
+      "restaurant": "포36st",
+      "location": "대륭1차 지하",
+      "lastVisited": "20180523",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 32,
+      "menu": "닭갈비",
+      "restaurant": "강촌닭갈비",
+      "location": "달콤한일상 옆에",
+      "lastVisited": "20180524",
+      "etc": "매워",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 33,
+      "menu": "일식(돈까스)",
+      "restaurant": "가츠몽",
+      "location": "대륭7차 1층",
+      "lastVisited": "20180525",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 34,
+      "menu": "삼계탕",
+      "restaurant": "소담",
+      "location": "우림1차 지하",
+      "lastVisited": "20180528",
+      "etc": "",
+      "rowStatus": "R"
+    },
+    {
+      "seq": 35,
+      "menu": "김치찜",
+      "restaurant": "참진김치찜",
+      "location": "코오롱2차 자하",
+      "lastVisited": "20180529",
+      "etc": "6천원",
+      "rowStatus": "R"
+    }
+  ]
