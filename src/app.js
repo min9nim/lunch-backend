@@ -30,7 +30,8 @@ process.env.NODE_ENV = process.env.NODE_ENV && process.env.NODE_ENV.trim();
 
 // 서비스 포트
 //const PORT = process.env.NODE_ENV === "development" ? 8080 : process.env.PORT;
-const PORT = 5050;
+console.log("process.env.PORT = " + process.env.PORT);
+const PORT = process.env.PORT || 5050;
 
 
 // HTTP 서비스 시작
