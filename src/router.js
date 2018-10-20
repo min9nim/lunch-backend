@@ -5,6 +5,8 @@ const shortid = require("shortid");
 
 
 
+
+
 //const R = require('ramda');
 //const $m = require('../com/util');
 
@@ -66,11 +68,34 @@ post["/remove"] = (req, res) => {
 };
 
 
+
+// 글내용 수정
+post["/edit"] = (req, res) => {
+    Lunch.findOne({seq: req.body.seq}).then(lunch => {        
+        // 신규내용으로 업데이트
+        Object.assign(lunch, req.body);
+        lunch.save().then(output => {
+            //console.log("# afterPost is saved");
+            //console.log(output);
+            res.send({
+                status: "Success",
+                message: `lunch@${req.body.key} updated.`,
+                output: output
+            });
+        }).catch(sendErr(res));
+    }).catch(sendErr(res));    
+}
+
+
+
+
 // 신규
 router.post("/add", post["/add"]);
 
+
 // 수정
 router.post("/edit", post["/edit"]);
+
 
 // 목록조회
 router.get("/list", get["/list"]);

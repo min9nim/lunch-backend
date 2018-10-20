@@ -1,7 +1,11 @@
 const express = require("express");
 const bodyParser = require('body-parser');
+const fallback = require('express-history-api-fallback');
 const morgan = require('morgan');
+
 const router = require('./router');
+
+
 
 
 
@@ -21,8 +25,15 @@ const staticPath = process.platform.indexOf("win32") > -1
 app.use(express.static(staticPath));
 
 
+
 // RESTful API 라우터 등록
 app.use('/api', router);
+
+
+// history-api-fallback 등록,
+// 이거는 순서가 중요, 위에 라우터 등록보다 위에 있으면 안됨
+app.use(fallback('index.html', { root: staticPath }));
+
 
 
 // 윈도우환경에서는 뒤에 공백문자가 들어가기 때문에 공백제거 필요함
