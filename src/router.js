@@ -92,10 +92,8 @@ post["/edit"] = (req, res) => {
 // 신규
 router.post("/add", post["/add"]);
 
-
 // 수정
 router.post("/edit", post["/edit"]);
-
 
 // 목록조회
 router.get("/list", get["/list"]);
