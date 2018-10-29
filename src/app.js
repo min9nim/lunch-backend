@@ -6,9 +6,6 @@ const morgan = require('morgan');
 const router = require('./router');
 
 
-
-
-
 // 익스프레스 앱생성
 const app = express();
 
